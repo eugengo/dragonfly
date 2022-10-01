@@ -1,4 +1,4 @@
-module dragonfly
+module github.com/eugengo/dragonfly
 
 go 1.18
 
